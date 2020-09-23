@@ -23,6 +23,13 @@ body {
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 
+
+a {
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+  }
+
+
+
 .sidebar {
 
     background: #1e2939;
